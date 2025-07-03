@@ -19,14 +19,14 @@ A modern and responsive Flutter application that mimics a real-world e-commerce 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/02406a7a-27a6-4b4a-82d1-bd510b8a9d52" width="320"  />
-  <img src="https://github.com/user-attachments/assets/bc2382f3-f571-49a9-a545-f4879d8495d7" width="320" />
-   <img src="https://github.com/user-attachments/assets/3952ce93-b26d-4fd0-8085-822758658e2d" width="320" />
+  <img src="https://github.com/user-attachments/assets/02406a7a-27a6-4b4a-82d1-bd510b8a9d52" width="250"  />
+  <img src="https://github.com/user-attachments/assets/bc2382f3-f571-49a9-a545-f4879d8495d7" width="250" />
+   <img src="https://github.com/user-attachments/assets/3952ce93-b26d-4fd0-8085-822758658e2d" width="250" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e92d18bf-f9ec-48a1-8d54-32b57e0c9ecf" width="320"  />
-  <img src="https://github.com/user-attachments/assets/1f41900f-c9ea-4d30-9b5e-ee785c99ae9e" width="320" />
-  <img src="https://github.com/user-attachments/assets/dfac23d0-8af9-4cd3-8cf4-9f09b1ff4abb" width="320" />
+  <img src="https://github.com/user-attachments/assets/e92d18bf-f9ec-48a1-8d54-32b57e0c9ecf" width="250"  />
+  <img src="https://github.com/user-attachments/assets/1f41900f-c9ea-4d30-9b5e-ee785c99ae9e" width="250" />
+  <img src="https://github.com/user-attachments/assets/dfac23d0-8af9-4cd3-8cf4-9f09b1ff4abb" width="250" />
 </p>
 
 ---
