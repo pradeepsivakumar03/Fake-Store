@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 import '../../../../core/constants/colors.dart';
 
-Widget quickQuantity(
-    {required int maxQuantity,
-    required int quantity,
-    required Function()? updateQuantity}) {
+Widget quickQuantity({
+  required int maxQuantity,
+  required int quantity,
+  required Function(int qty) updateQuantity,
+}) {
   return Row(
     mainAxisAlignment: MainAxisAlignment.center,
     children: [1, 5, 10, 20].map((qty) {
@@ -12,12 +13,9 @@ Widget quickQuantity(
       return Padding(
         padding: const EdgeInsets.symmetric(horizontal: 4),
         child: GestureDetector(
-          onTap: updateQuantity,
+          onTap: () => updateQuantity(qty),
           child: Container(
-            padding: const EdgeInsets.symmetric(
-              horizontal: 12,
-              vertical: 6,
-            ),
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
             decoration: BoxDecoration(
               color: quantity == qty
                   ? AppPalettes.primaryColor

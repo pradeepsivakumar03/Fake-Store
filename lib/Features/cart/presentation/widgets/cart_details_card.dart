@@ -53,7 +53,7 @@ Widget showDetailsCard(
                         fontWeight: FontWeight.w500),
                   ),
                   trailing: Text(
-                    "₹${(product.price * product.quantity)}",
+                    "₹${(product.price * product.quantity).toStringAsFixed(2)}",
                     style: const TextStyle(
                         color: Colors.white,
                         fontSize: 15,

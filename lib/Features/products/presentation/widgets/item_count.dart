@@ -199,7 +199,7 @@ class _ProductQuantityBottomSheetState
                 quickQuantity(
                   maxQuantity: widget.maxQuantity,
                   quantity: _quantity,
-                  updateQuantity: () => _updateQuantity(_quantity + 1),
+                  updateQuantity: (newQty) => _updateQuantity(newQty),
                 ),
               ],
             ),
