@@ -206,7 +206,7 @@ class _ProductQuantityBottomSheetState
           ),
           bottomButton(
               productPrice: widget.product.price,
-              quantity: widget.product.quantity,
+              quantity: _quantity,
               context: context,
               onPressed: () {
                 if (widget.onAddToCart != null) {
